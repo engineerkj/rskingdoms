@@ -10,8 +10,8 @@
         }
     ],
     "compatibility": { 
-        "minimum": 12,
-        "verified": "12.331",
+        "minimum": 11,
+        "verified": 11,
         "maximum": 13
     },
     "esmodules": [
