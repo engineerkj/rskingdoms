@@ -1,7 +1,8 @@
 {
     "id": "rskingdoms",
     "title": "Runescape Kingdoms:The Roleplaying Game",
-    "description": "0.0.1",
+    "description": "The Runescape Kingdoms Roleplaying Game, created by orangecaffeine",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "Kevin",
