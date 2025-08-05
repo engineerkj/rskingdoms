@@ -1,0 +1,37 @@
+{
+    "id": "rskingdoms",
+    "title": "Runescape Kingdoms:The Roleplaying Game",
+    "description": "0.0.1",
+    "authors": [
+        {
+            "name": "Kevin",
+            "discord": "orangecaffeine"
+        }
+    ],
+    "compatibility": {
+        "minimum": 13,
+        "verified": "13.342",
+        "maximum": 13
+    },
+    "esmodules": [
+        "rskingdoms.js"
+    ],
+    "styles": [
+        "rskingdoms.css"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "socket": "false",
+    "grid": {
+        "distance": 1,
+        "units": "square"
+    },
+    "url":"https://github.com/engineerkj/rskingdoms",
+    "manifest": "https://github.com/engineerkj/rskingdoms/releases/latest/download/system.json",
+    "download": "https://github.com/engineerkj/rskingdoms/releases/download/v0.0.1/system.zip"
+}
